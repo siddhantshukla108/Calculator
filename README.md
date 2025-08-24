@@ -1,4 +1,4 @@
-# 🧮 NumVyne
+## 🧮 NumVyne
 
 ## 📸 App Preview
 
@@ -8,7 +8,7 @@ Here’s how your quiz looks in action:
 
 ---
 
-# Web Calculator
+## 🔢 Web Calculator
 
 A sleek, responsive web-based calculator built with HTML, CSS, and JavaScript. This calculator provides basic arithmetic operations with a clean, modern interface.
 
@@ -38,16 +38,16 @@ A sleek, responsive web-based calculator built with HTML, CSS, and JavaScript. T
 
 ---
 
-## Getting Started
+## 🏁 Getting Started
 
-### Prerequisites
+## Prerequisites
 
 All you need is a modern web browser:
 - Chrome, Firefox, Safari, Edge, or any other modern browser
 
 --- 
 
-### Installation
+## ⚙️ Installation
 
 1. Clone or download this repository
 2. Navigate to the project directory
@@ -57,7 +57,7 @@ Alternatively, you can simply copy the HTML and CSS code into files and run them
 
 ---
 
-## Usage
+## 🎮 Usage
 
 1. Click on number buttons to input values
 2. Use operator buttons (+, -, *, /) to select operations
@@ -78,16 +78,16 @@ Alternatively, you can simply copy the HTML and CSS code into files and run them
 
 ---
 
-## Code Overview
+## 💻 Code Overview
 
-### HTML Structure
+## 🏗️ HTML Structure
 The calculator is built with a form containing:
 - A display input field
 - Buttons for numbers (0-9), operators (+, -, *, /), and functions (AC, DE, =)
 
 --- 
 
-### CSS Styling
+## 🎨 CSS Styling
 - Modern dark theme with #3a4452 as the primary color
 - Button hover effects with shadowing
 - Responsive design that works on various screen sizes
@@ -95,14 +95,14 @@ The calculator is built with a form containing:
 
 ---
 
-### JavaScript functionality
+## ⚡ JavaScript functionality
 - Uses inline event handlers for simplicity
 - `eval()` function to calculate expressions (note: for production, consider a safer alternative)
 - Basic string manipulation for the delete function
 
 ---
 
-## Customization
+## 🎨 Customization
 
 You can easily customize the calculator by:
 1. Changing color scheme in the CSS
@@ -111,7 +111,7 @@ You can easily customize the calculator by:
 
 ---
 
-## Browser Compatibility
+## 🌍 Browser Compatibility
 
 This calculator works on all modern browsers that support:
 - ES6 JavaScript features
@@ -119,7 +119,7 @@ This calculator works on all modern browsers that support:
 
 ---
 
-## Limitations
+## ⚠️ Limitations
 
 - Currently uses `eval()` which has security implications (not recommended for production)
 - Does not support keyboard input
@@ -127,7 +127,7 @@ This calculator works on all modern browsers that support:
 
 ---
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 Potential improvements for this calculator:
 - [ ] Replace `eval()` with a safer calculation method
