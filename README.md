@@ -14,9 +14,9 @@ A sleek, responsive web-based calculator built with HTML, CSS, and JavaScript. T
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Live Demo 
 
-▶️ [Watch the Demo](https://siddhantshukla108.github.io/Calculator/)
+🌐 [Visit the website](https://siddhantshukla108.github.io/NumVyne/)
 
 ---
 
